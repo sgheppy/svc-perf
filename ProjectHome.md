@@ -1,0 +1,1 @@
+Scripts to monitor IBM Storwize V7000 performance with Zabbix using Storwize CIM Provider (WBEM)
